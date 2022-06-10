@@ -1,2 +1,2 @@
 # Weather_API
-Getting the weather from API
+This is a project to search for informations about an specific city (typed in) from a API.
